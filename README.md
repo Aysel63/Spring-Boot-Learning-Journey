@@ -1,10 +1,10 @@
-# Spring Boot 3, Spring 7 & Hibernate 
+# Spring Boot 4, Spring 7 & Hibernate 
 
-This repository is a comprehensive implementation of the **"Spring Boot 3, Spring 7 & Hibernate for Beginners"** masterclass by Chad Darby. It serves as a complete technical reference for building enterprise-level Java applications using modern standards.
+This repository is a comprehensive implementation of the **"Spring Boot 4, Spring 7 & Hibernate for Beginners"** masterclass by Chad Darby. It serves as a complete technical reference for building enterprise-level Java applications using modern standards.
 
 ## 🚀 Technical Stack
 * **Java:** 21 (LTS)
-* **Frameworks:** Spring Boot 3.3, Spring Core 7
+* **Frameworks:** Spring Boot 4, Spring Core 7
 * **Data Management:** Hibernate 6, Spring Data JPA, MySQL
 * **Security:** Spring Security 6 (Role-Based Access Control - RBAC)
 * **Templating:** Thymeleaf & Bootstrap 5

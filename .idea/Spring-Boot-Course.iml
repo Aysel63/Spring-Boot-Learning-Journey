@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_21" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/01-spring-boot-overview/01-spring-boot-demo/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01-spring-boot-overview/02-dev-tools-demo/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01-spring-boot-overview/03-actuator-demo/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01-spring-boot-overview/04-actuator-security-demo/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01-spring-boot-overview/05-command-line-demo/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01-spring-boot-overview/06-properties-demo/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02-spring-boot-spring-core/01-construcor-injection/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02-spring-boot-spring-core/02-component-scanning/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02-spring-boot-spring-core/03-setter-injection/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02-spring-boot-spring-core/04-qualifiers/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02-spring-boot-spring-core/05-primary/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02-spring-boot-spring-core/06-lazy-initalization/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02-spring-boot-spring-core/07-bean-scopes/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02-spring-boot-spring-core/08-bean-lifecycle-methods/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02-spring-boot-spring-core/09-java-config-bean/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03-spring-boot-hibernate-jpa-crud/01-cruddemo-student/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04-spring-boot-rest-crud/01-spring-boot-rest-crud/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04-spring-boot-rest-crud/20-spring-boot-rest-crud-employee/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04-spring-boot-rest-crud/30-spring-boot-rest-employee-with-spring-data-jpa/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04-spring-boot-rest-crud/40-spring-boot-rest-crud-employee-with-spring-data-rest/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04-spring-boot-rest-crud/50-openapi-swagger-starter-projects-spring-data-jpa/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05-spring-boot-rest-security/00-spring-boot-rest-security-employee-starter-code/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05-spring-boot-rest-security/thymeleafdemo/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07-spring-boot-spring-mvc/01-thymeleafdemo-helloworld/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07-spring-boot-spring-mvc/validationdemo/src/main/java" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="21" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

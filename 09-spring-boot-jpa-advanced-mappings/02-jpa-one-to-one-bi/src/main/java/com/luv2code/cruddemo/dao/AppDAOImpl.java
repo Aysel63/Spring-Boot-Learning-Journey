@@ -1,6 +1,7 @@
 package com.luv2code.cruddemo.dao;
 
 import com.luv2code.cruddemo.entity.Instructor;
+import com.luv2code.cruddemo.entity.InstructorDetail;
 import jakarta.persistence.EntityManager;
 import jakarta.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -43,5 +44,10 @@ public class AppDAOImpl implements AppDAO{
 
 
 
+    }
+
+    @Override
+    public InstructorDetail findInstructorDetailById(int theId) {
+        return entityManager.find(InstructorDetail.class,theId);
     }
 }
